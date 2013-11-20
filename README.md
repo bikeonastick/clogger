@@ -43,6 +43,6 @@ FIXME: listing of options this app accepts.
 This project is released under the [MIT](http://opensource.org/licenses/MIT) 
 license.
 
-Copyright © 2013 FIXME
+Copyright © 2013 robert tomb
 
-Distributed under the Eclipse Public License, the same as Clojure.
+
