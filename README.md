@@ -1,3 +1,8 @@
+https://api.travis-ci.org/bikeonastick/clogger.png
+
+[![Build Status](https://api.travis-ci.org/bikeonastick/clogger.png)](https://api.travis-ci.org/bikeonastick/clogger.png)
+
+
 # clogger
 
 A blogging app written in clojure. The app is going to be mostly a display
