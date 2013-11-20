@@ -1,7 +1,5 @@
-https://api.travis-ci.org/bikeonastick/clogger.png
 
 [![Build Status](https://api.travis-ci.org/bikeonastick/clogger.png)](https://api.travis-ci.org/bikeonastick/clogger.png)
-
 
 # clogger
 
