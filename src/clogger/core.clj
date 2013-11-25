@@ -14,13 +14,6 @@
    :headers {"Content-Type" "text/plain"} 
    :body (str "here's teh postz for ->" uri)})
 
-(defn test-on-regex [tst]
-  (def action  (re-matches #"/([a-z][a-z_]*)/.*" tst) )
-  (condp = (action 1)
-    "foo" (println "you said foo")
-    "show" (println "you said show"))
-  )
-
 (defn respond-to-get [uri & more] 
   (def action  (re-matches #"/([a-z][a-z_]*)/.*" uri) )
   (condp = (if (= nil action) "" (action 1))
